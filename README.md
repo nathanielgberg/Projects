@@ -1,2 +1,2 @@
 # Projects
-Java is object-oritented.
+Java is object-oriented.
